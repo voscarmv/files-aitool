@@ -1,0 +1,40 @@
+{
+  "name": "@voscarmv/files-aitool",
+  "version": "1.0.0",
+  "description": "File handling AI chatbot toolset ",
+  "keywords": [
+    "file",
+    "files",
+    "ai",
+    "tool",
+    "toolcall",
+    "tool",
+    "call",
+    "tool-cal",
+    "openai",
+    "deepseek",
+    "chatbot",
+    "telegram",
+    "bot",
+    "chat"
+  ],
+  "homepage": "https://github.com/voscarmv/files-aitool#readme",
+  "bugs": {
+    "url": "https://github.com/voscarmv/files-aitool/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voscarmv/files-aitool.git"
+  },
+  "license": "GPL-3.0-or-later",
+  "author": "Oscar Mier",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.3",
+    "typescript": "^5.9.3"
+  }
+}
